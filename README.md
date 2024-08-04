@@ -26,6 +26,8 @@ WAPE: 0.020; com 2% em relação aos números reais, portanto, uma métrica úti
 RMSE: 3.475
 MASE: 0.700
 
+![screenshot da tela de model status do SageMaker Canvas] (https://github.com/bids-work/copy-lab-aws-sagemaker-canvas-estoque/blob/main/AWS%20Analyze_print.PNG)
+
 **4. Prever**
 
 Utilizado modelo treinado para o estoque específico, as principais análises foram:
