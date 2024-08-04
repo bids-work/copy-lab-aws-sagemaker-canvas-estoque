@@ -10,7 +10,7 @@ Bootcamp Nexa - Machine Learning para Iniciantes na AWS
 🚀 Passo a Passo
 1. Selecionar conjunto de dados
 
-A partir do repositório digitalinnovationone/lab-aws-sagemaker-canvas-estoque, selecionado o arquivo dataset-1000-com-preco-promocional-e-renovacao-estoque.csv para treinar o modelo de previsão de estoque e feito upload no SageMaker Canvas.
+A partir do repositório [https://github.com/digitalinnovationone/lab-aws-sagemaker-canvas-estoque], selecionado o arquivo dataset-1000-com-preco-promocional-e-renovacao-estoque.csv para treinar o modelo de previsão de estoque e feito upload no SageMaker Canvas.
 
 2. Construir/Treinar
 
