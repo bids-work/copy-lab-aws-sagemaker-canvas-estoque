@@ -39,5 +39,6 @@ Gostaria de prosseguir para novos treinamentos, testes e análises, mas consider
 
 A ferramenta e o conteúdo do curso foram bastante interessantes e importantes, mas pretendo aprofundar nos testes e uso do SageMaker Canvas em outras oportunidades quando tiver orçamento destinado para esta prática. Quanto ao Desafio, apesar de interessante, poderia ter outra metodologia que não gerasse custos adicionais, ou uma desejável parceria com a AWS para os alunos da DIO no decorrer do Bootcamp.
 
-<img src = "https://imgbox.com/B8pZJGRx" alt="imagem teste">
+<img src = "https://imgbox.com/B8pZJGRx">
+
 
