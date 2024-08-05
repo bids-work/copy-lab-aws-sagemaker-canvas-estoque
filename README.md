@@ -27,9 +27,9 @@ Importado o conjunto de dados no SageMaker Canvas e realizado treinamento do mod
 
 Após o treinamento do modelo, as principais análises das métricas identificadas foram:
 
-Avg. wQL: 0.018; indicando que o desvio padrão apresenta variabilidade, mas não são excessivamente dispersos, sendo desejável o mais próximo de 0;
+Avg. wQL: 0.018; indicando que o desvio padrão apresenta variabilidade, mas não são excessivamente dispersos, sendo desejável o mais próximo de 0 (zero);
 MAPE: 0.021; que tem uma previsão de erro de 2,1%, e quanto menor, mais precisa é a previsão;
-WAPE: 0.020; com 2% em relação aos números reais, portanto, uma métrica útil para avaliar a precisão das previsões.
+WAPE: 0.020; previsão de erro de 2% em relação aos números reais, portanto, uma métrica útil para avaliar a precisão das previsões.
 RMSE: 3.475
 MASE: 0.700; que necessitam de outras bases comparativas para um parecer mais preciso.
 
@@ -39,7 +39,7 @@ MASE: 0.700; que necessitam de outras bases comparativas para um parecer mais pr
 
 **4. Prever**
 
-Utilizado modelo treinado para o estoque específico, as principais análises foram:
+Utilizado modelo treinado para o estoque selecionado, as principais análises foram:
 Nas análises preditivas de items, por exemplo, o item 1000, apresentou P10, P50 e P90, com as previsões pessimista, média/provável ou otimista, respectivamente: 132.177, 153.809 e 153.997.
 Assim como pode-se realizar com cada item separadamente. Tanto em expressão numérica quanto gráfica. Além de outras leituras como por Correlation Matrix, Scatter plot, Bar chart, a partir de cada coluna.
 
